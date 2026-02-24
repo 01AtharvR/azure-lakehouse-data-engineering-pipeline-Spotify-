@@ -62,6 +62,11 @@ Azure SQL Database → Azure Data Factory → ADLS Gen2 (Bronze Layer) → Azure
 - Organized data into logical lakehouse layers
 - Designed modular Databricks notebooks for reusable transformations
 
----
+---<img width="1920" height="1080" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/73841898-5681-4c8c-b960-24def0993196" />
+<img width="1920" height="1080" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/bb02a813-5a2c-45f2-8b89-0ad7be008ebc" />
+<img width="1920" height="1080" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/40385f37-3cb2-46ce-97d2-09bc7932ecdc" />
+<img width="1920" height="1080" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/bcd4d703-3054-4648-95d8-1ab3d23f5206" />
 
-## Project Structure
+
+
+
